@@ -58,7 +58,7 @@
     header >  h1 {color: white;
     font-family: var(--fonte-destaque);
     margin-bottom: 20px;
-    font-size: 4.1em;
+    font-size: 4em;
    text-shadow: 3px 2px 1px rgb(0, 0, 0);}
 
 
@@ -70,7 +70,8 @@
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
-    text-shadow: 2px 9px 9px rgba(0, 0, 0, 0.192);}
+    text-shadow: 2px 9px 9px rgba(0, 0, 0, 0.192);
+    padding-bottom: 20px;}
 
     nav{ background-color: var(--cor4);
     padding: 10px;
